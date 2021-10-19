@@ -1,4 +1,4 @@
-## Welcome to AIOTI Urban Society Portfolio of Solutions
+## AIOTI Urban Society Portfolio
 
 The focus of the **Urban Society working group of [AIOTI](aioti.eu)** will mainly be on Urban Societies and its Communities, but of course rural areas will be included. Urban Society is cross-cutting by integrating and touching all domains, not only the horizontals but also the vertical domains are intertwined with Urban Society.
 
